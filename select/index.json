@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Bad Romance",
+  "base_artist": "Lady Gaga",
+  "createdAt": "2026-02-21T15:46:00.528475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_Bad_Romance_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Romance (Kaskade Main Mix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/02_Bad_Romance_(Kaskade_Main_Mix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Romance - Skrillex Remix",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Bad_Romance_-_Skrillex_Remix_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/04_Bad_Romance_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Ariana Savalas & Sarah Reich",
+      "has_synced": false,
+      "path": "select/05_Bad_Romance_Scott_Bradlee's_Postmodern_Jukebox_feat._Ariana_Savalas_&_Sarah_Reich.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Sara Niemietz & The Sole Sisters",
+      "has_synced": true,
+      "path": "select/06_Bad_Romance_Scott_Bradlee's_Postmodern_Jukebox_feat._Sara_Niemietz_&_The_Sole_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/07_Bad_Romance_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Romance - Grum Remix",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/08_Bad_Romance_-_Grum_Remix_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Romance (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/09_Bad_Romance_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "New Years Day",
+      "has_synced": true,
+      "path": "select/10_Bad_Romance_New_Years_Day.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Bad_Romance_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Halestorm",
+      "has_synced": true,
+      "path": "select/12_Bad_Romance_Halestorm.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/13_Bad_Romance_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Romance (BBC Live Version)",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/14_Bad_Romance_(BBC_Live_Version)_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Romance (BBC Live Version)",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/15_Bad_Romance_(BBC_Live_Version)_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad Romance (Explicit)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/16_Bad_Romance_(Explicit)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad Romance",
+      "artist": "Artist vs. Poet",
+      "has_synced": true,
+      "path": "select/17_Bad_Romance_Artist_vs._Poet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Romance_Lady_Gaga.txt"
+    }
+  ]
+}
